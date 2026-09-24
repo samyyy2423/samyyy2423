@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250" role="img" aria-label="HTTP Server in C: A web server from scratch: TCP sockets, request-line parsing, a binary-search-tree router, HTML templates and static files.">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151a38"/>
+    </linearGradient>
+    <radialGradient id="cga"><stop offset="0" stop-color="#fbbf24" stop-opacity=".22"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cgb"><stop offset="0" stop-color="#fbbf24" stop-opacity=".20"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+    <pattern id="cgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="cclip"><rect width="590" height="250" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#cclip)">
+    <rect width="590" height="250" fill="url(#cbg)"/>
+    <rect width="590" height="250" fill="url(#cgrid)"/>
+    <circle cx="71" cy="0" r="189" fill="url(#cga)"/>
+    <circle cx="531" cy="250" r="201" fill="url(#cgb)"/>
+  </g>
+  <rect x=".5" y=".5" width="589" height="249" rx="18" fill="none" stroke="#fff" stroke-opacity=".09"/>
+  <text x="30" y="42" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="14" fill="#5d6788">samyyy2423/<tspan fill="#fbbf24">webserver_with_C</tspan></text>
+  <text x="29" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#e8ecf8">HTTP Server in C</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#98a3c2"><tspan x="30" y="118">A web server from scratch: TCP sockets, request-line</tspan><tspan x="30" y="145">parsing, a binary-search-tree router, HTML templates</tspan><tspan x="30" y="172">and static files.</tspan></text>
+  <circle cx="37" cy="214" r="7" fill="#8a9bb0"/>
+  <text x="51" y="219.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#98a3c2">C</text>
+  <rect x="87" y="198" width="87" height="30" rx="15.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text x="130" y="218.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="14" fill="#fbbf24">sockets</text><rect x="181.76" y="198" width="61" height="30" rx="15.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text x="212" y="218.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="14" fill="#fbbf24">HTTP</text><rect x="250.48" y="198" width="61" height="30" rx="15.0" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".45"/><text x="281" y="218.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="14" fill="#fbbf24">Make</text>
+</svg>

@@ -1,32 +1,42 @@
-# Hi, I'm Samyak 👋
+<a href="https://samyaksportfolio.vercel.app/"><img src="assets/banner.svg" width="100%" alt="Samyak Pudke: AI evaluation engineer and full-stack developer"></a>
 
-**AI evaluation engineer and full-stack developer.** I build benchmarks that measure what AI coding
-agents can really do: task environments, reference solutions and automated graders that hold up
-against frontier models. I also build the web apps and tooling around them.
+<p align="center">
+  <a href="https://samyaksportfolio.vercel.app/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/samyakpudke/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:workitsam01@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>&nbsp;
+  <img src="assets/btn-open.svg" height="40" alt="Open to remote contracts">
+</p>
 
-- 🔬 **Now:** AI Benchmark Engineer at Turing: long-horizon agent tasks, reproducible Docker graders,
-  difficulty calibrated across model families
-- 🧪 **Before:** agentic task design and deterministic verification harnesses at Handshake AI
-- 🌐 **Also:** full-stack web with React/Next.js, TypeScript, Node.js and Python
-- 📍 Maharashtra, India · open to remote contract work
+<p align="center">
+  I build benchmarks that measure what AI coding agents can really do: task environments, reference solutions<br>
+  and graders that hold up against frontier models. I also build the web apps and tooling around them.
+</p>
 
-## Featured
+<p align="center">
+  <sub>🔭 <b>Now:</b> AI Benchmark Engineer @ Turing &nbsp;·&nbsp; 🧪 <b>Before:</b> agentic task design @ Handshake AI &nbsp;·&nbsp; 📍 India, working remote</sub>
+</p>
 
-| Project | What it is |
-|---------|------------|
-| [**splitpoint**](https://github.com/samyyy2423/splitpoint) | Lines up a passing and a failing SWE-agent run on the same task and finds the step where the failing run went wrong. An LLM judge labels the failure, scored against blind human labels (Cohen's κ). Python pipeline + Next.js site. |
-| [**topcoder**](https://github.com/samyyy2423/topcoder) | Creative-asset automation platform for a TopCoder challenge: upload, edit, batch-generate platform-specific assets with pluggable AI providers. React + Flask. |
-| [**dependency_checker**](https://github.com/samyyy2423/dependency_checker) | TypeScript CLI: outdated packages, `npm audit`, optional auto-fix, JSON + Markdown reports, monorepo-aware. |
-| [**webserver_with_C**](https://github.com/samyyy2423/webserver_with_C) | HTTP server from scratch in C with sockets and a BST router. |
-| [**portfolio**](https://github.com/samyyy2423/portfolio) | My site: React, three.js, GSAP. **[Live ↗](https://samyaksportfolio.vercel.app/)** |
+<br>
 
-## Toolbox
+<img src="assets/focus.svg" width="100%" alt="What I do: agent benchmarks, verifiers and graders, full-stack web">
 
-**Evals:** Harbor / Terminal-Bench tasks · Docker · pytest · LLM-as-judge · Anthropic API<br>
-**Languages:** Python · TypeScript / JavaScript · C / C++ · SQL<br>
-**Web:** React · Next.js · Node.js · Flask · Tailwind · three.js · GSAP<br>
-**Data:** PostgreSQL · MongoDB · DuckDB · Pydantic
+<h2>⚡ Featured work</h2>
 
-## Contact
+<a href="https://github.com/samyyy2423/splitpoint"><img src="assets/splitpoint.svg" width="100%" alt="Splitpoint: lines up a passing and a failing SWE-agent run and finds the step where they split"></a>
 
-[Portfolio](https://samyaksportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/samyakpudke/) · workitsam01@gmail.com
+<p>
+  <a href="https://github.com/samyyy2423/topcoder"><img src="assets/card-topcoder.svg" width="49%" alt="Creative Asset Automation: React + Flask platform for AI-generated marketing assets"></a>
+  <a href="https://github.com/samyyy2423/dependency_checker"><img src="assets/card-dependency-checker.svg" width="49%" alt="Dependency Checker: TypeScript CLI for outdated packages and npm audit"></a>
+</p>
+<p>
+  <a href="https://github.com/samyyy2423/webserver_with_C"><img src="assets/card-webserver.svg" width="49%" alt="HTTP Server in C: sockets, request parsing and a BST router"></a>
+  <a href="https://github.com/samyyy2423/portfolio"><img src="assets/card-portfolio.svg" width="49%" alt="Portfolio: React, three.js and GSAP"></a>
+</p>
+
+<h2>🧰 Toolbox</h2>
+
+<p align="center">
+  <img src="assets/stack.svg" width="72%" alt="Python, TypeScript, JavaScript, C, C++, React, Next.js, Node.js, Flask, Tailwind, three.js, Vite, Docker, PostgreSQL, MongoDB, Linux, Bash, Git, Vercel">
+</p>
+
+<p align="center"><sub>Evals: Harbor / Terminal-Bench tasks · Docker · pytest · LLM-as-judge · Anthropic API · DuckDB · Pydantic</sub></p>

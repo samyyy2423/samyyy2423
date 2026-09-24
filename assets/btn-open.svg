@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="44" viewBox="0 0 270 44" role="img" aria-label="Open to remote contracts">
+  <rect x=".5" y=".5" width="269" height="43" rx="12" fill="#0f1428" stroke="#4ade80" stroke-opacity=".5"/>
+  <g transform="translate(24 22)"><circle cx="0" cy="0" r="5" fill="#4ade80"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle></g>
+  <text x="44" y="27.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecf8">Open to remote contracts</text>
+</svg>
