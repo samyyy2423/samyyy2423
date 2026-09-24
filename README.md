@@ -1,8 +1,10 @@
+<img align="right" width="340" src="media/blackhole.webp" alt="a black hole with a lensed accretion disk, slowly turning">
+
 ### hey, I'm Samyak
 
 I write tasks that try to trip up AI coding agents, and the graders that check whether they
 actually got it right. I also like building web pages that move: GSAP, three.js, and the
-occasional black hole.
+occasional [black hole](https://github.com/samyyy2423/black_hole_with_C).
 
 **now** AI benchmark engineer at Turing\
 **before** agentic task design at Handshake AI\
