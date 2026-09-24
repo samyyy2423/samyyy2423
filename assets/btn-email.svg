@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="107" height="44" viewBox="0 0 107 44" role="img" aria-label="Email">
-  <rect x=".5" y=".5" width="106" height="43" rx="12" fill="#0f1428" stroke="#a78bfa" stroke-opacity=".5"/>
-  <g transform="translate(24 22)"><rect x="-9.5" y="-7" width="19" height="14" rx="2.5" fill="none" stroke="#a78bfa" stroke-width="1.8"/><path d="M-9 -6L0 1L9 -6" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round"/></g>
-  <text x="44" y="27.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecf8">Email</text>
-</svg>
